@@ -144,6 +144,8 @@
 <details>
   <summary>Unreleased Characters</summary>
 
+  These IDs are from Jan 2025. Subject to change. 
+
   | FModel ID | Character Name |
   |-----------|----------------|
   | ???? | Professor X |
