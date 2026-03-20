@@ -113,6 +113,16 @@
     
     </details>
 
+  - <details>
+    <summary>Season 7</summary>
+    
+    | FModel ID | Character Name |
+    |-----------|----------------|
+    | 1060 | White Fox |
+    | ???? | Black Cat |
+    
+    </details>
+
 </details>
 
 <details>
@@ -156,7 +166,6 @@
   | 1064 | Jubilee |
   | 1067 | Armor |
   | 1068 | Hive |
-  | 1069 | White Fox |
   | 1070 | Forge |
   | 1071 | Amaranth |
 
