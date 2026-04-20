@@ -119,7 +119,7 @@
     | FModel ID | Character Name |
     |-----------|----------------|
     | 1060 | White Fox |
-    | ???? | Black Cat |
+    | 1061 | Black Cat |
     
     </details>
 
@@ -159,8 +159,8 @@
   | FModel ID | Character Name |
   |-----------|----------------|
   | ???? | Professor X |
-  | 1060 | Colossus |
-  | 1061 | Locus |
+  | ???? | Colossus |
+  | ???? | Locus |
   | 1062 | Beast |
   | 1063 | Nightcrawler |
   | 1064 | Jubilee |
