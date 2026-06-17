@@ -1,7 +1,7 @@
 ### This is a complete list of all character IDs in Marvel Rivals, including playable characters & NPCs.
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/regularlunar/MR-Character-IDS?style=for-the-badge&color=%23916cd9" />
+  <img src="https://img.shields.io/github/last-commit/pumpkinbunny/MR-Character-IDS?style=for-the-badge&color=%23916cd9" />
 </p>
 
 ---
@@ -120,6 +120,16 @@
     |-----------|----------------|
     | 1060 | White Fox |
     | 1061 | Black Cat |
+    
+    </details>
+
+ - <details>
+    <summary>Season 8</summary>
+    
+    | FModel ID | Character Name |
+    |-----------|----------------|
+    | 1062 | Devil Dinosaur |
+    | 1063 | Cyclops |
     
     </details>
 
